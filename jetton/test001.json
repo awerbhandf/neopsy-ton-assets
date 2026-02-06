@@ -1,7 +1,0 @@
-{
-  "name": "Test001",
-  "symbol": "Test01",
-  "description": "Test001 Jetton for Neopsy presale on TON. Fixed supply, burnable by holders, transfers restricted by allowlist.",
-  "decimals": 9,
-  "image": "https://awerbhandf.github.io/neopsy-ton-assets/jetton/test001.png"
-}
